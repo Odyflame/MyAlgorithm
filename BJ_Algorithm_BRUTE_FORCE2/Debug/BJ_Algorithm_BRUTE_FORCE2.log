@@ -1,0 +1,5 @@
+﻿  팬덤이 넘쳐흘러 17262.cpp
+C:\Users\ieehy\source\repos\Algorithm_Insight\BJ_Algorithm_BRUTE_FORCE2\팬덤이 넘쳐흘러 17262.cpp(80): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ieehy\source\repos\Algorithm_Insight\BJ_Algorithm_BRUTE_FORCE2\팬덤이 넘쳐흘러 17262.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ieehy\source\repos\Algorithm_Insight\BJ_Algorithm_BRUTE_FORCE2\팬덤이 넘쳐흘러 17262.cpp(86): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  BJ_Algorithm_BRUTE_FORCE2.vcxproj -> C:\Users\ieehy\source\repos\Algorithm_Insight\Debug\BJ_Algorithm_BRUTE_FORCE2.exe

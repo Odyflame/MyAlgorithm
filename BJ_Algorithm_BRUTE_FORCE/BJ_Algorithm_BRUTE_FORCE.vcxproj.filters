@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Algorithm_Insight\날짜 계산1476.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Algorithm_Insight\일곱 난쟁2309.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Algorithm_Insight\테트로미노14500.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="다음 순열10972.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="이전 순열10973.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="모든 순열10974.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="차이를 최대로10819.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자 문제 14888.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="암호 만들기 실 1759.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="암호 만들기 1759.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="다시풀기 로또 6603.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="다시풀기 외판원 문제10971.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="집합 11723.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="단어 공부 1157.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1009 분산처리.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="직사각형 2527.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="퇴사 14501.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 정사각형 1051.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
